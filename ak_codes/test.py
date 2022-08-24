@@ -1,5 +1,5 @@
 import sys
-sys.path.append("../deepchoi")
+sys.path.append("../evaluate_deepchoi")
 
 import eval_metrics_1 as eval_metrics
 from GO import Ontology

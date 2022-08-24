@@ -1,5 +1,5 @@
 import sys
-sys.path.append("../deepchoi")
+sys.path.append("../evaluate_deepchoi")
 
 import numpy as np
 import pandas as pd

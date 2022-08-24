@@ -1,10 +1,12 @@
 import sys
-sys.path.append("../deepchoi")
+sys.path.append("../evaluate_deepchoi")
 
 import os.path as osp
 from collections import deque, Counter
 import math
 import pickle_utils
+
+# this codefile is taken from DeepGOPlus repository
 
 # refs are at the end of the file.
 BIOLOGICAL_PROCESS = 'GO:0008150'
